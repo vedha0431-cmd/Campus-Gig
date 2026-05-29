@@ -43,7 +43,7 @@ The goal was to reduce complexity and improve accessibility for students.
 - Figma
 
 ## Prototype Link
-[View Figma Prototype](https://www.figma.com/proto/EDCmtAns1WP6MOVW3fdFav/Untitled?node-id=203-173&t=BcDxBZ3kAmhNyhxS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
+[https://www.figma.com/proto/EDCmtAns1WP6MOVW3fdFav/Untitled?node-id=1-3&t=1ePVsaUNEMQOnBu4-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1]
 
 ## UI/UX Focus Areas
 - User-Centered Design
