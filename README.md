@@ -1,26 +1,61 @@
-🎨 My UI/UX Design Project
-📌 Part Time job finder App design (CampusGig)
+# Part-Time Job Finder App for Students
 
-🧠 About the Project
+## Overview
+Part-Time Job Finder App is a user-centered UI/UX design project created to help students easily discover and apply for part-time job opportunities. The application focuses on providing a simple, accessible, and efficient job search experience through intuitive navigation and a clean mobile interface.
 
-This project is a UI/UX design for a part-time job finder app tailored specifically for college students. Designed using Figma, the app focuses on helping students easily discover flexible job opportunities, apply quickly, and manage their work alongside academics. The design emphasizes a simple user flow, clear navigation, and a user-centered experience to reduce friction and improve accessibility.
+## Problem Statement
+Many students face difficulties while searching for part-time jobs because existing job platforms are:
+- Complex to navigate
+- Time-consuming
+- Not designed specifically for students
+- Filled with irrelevant job listings
 
-🔗 View My Design in Figma
+This often creates confusion and increases the time required to find suitable opportunities.
 
-👉 Click here to view the full design ( https://www.figma.com/proto/EDCmtAns1WP6MOVW3fdFav/Untitled?node-id=1-3&t=HMhzb11S3yZa2wQ3-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1 )
+## Solution
+The application was designed with a student-focused approach to simplify the entire job search process. The app provides:
+- Structured job listings
+- Quick and easy application flow
+- Filtering options
+- Profile management
+- User-friendly navigation
 
-🛠️ Tools Used
-Figma
-UX Research
-Wireframing
-Prototyping
+The goal was to reduce complexity and improve accessibility for students.
 
-💡 My Focus
+## Features
+- Part-time job search
+- Job filtering and categorization
+- Quick apply functionality
+- User profile management
+- Mobile-first responsive UI
+- Clean and intuitive interface
 
-I am more focused on UX design, ensuring better user experience, while also exploring UI design.
+## Design Process
+- User Research
+- Problem Analysis
+- User Flow Design
+- Low-Fidelity Wireframes
+- High-Fidelity UI Design
+- Interactive Prototyping
+- Usability Improvements
 
-🤝 Skills
-User Research
-Wireframing
-Prototyping
-Cross-functional collaboration
+## Tool Used
+- Figma
+
+## Prototype Link
+[View Figma Prototype](https://www.figma.com/proto/EDCmtAns1WP6MOVW3fdFav/Untitled?node-id=203-173&t=BcDxBZ3kAmhNyhxS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3)
+
+## UI/UX Focus Areas
+- User-Centered Design
+- Accessibility
+- Mobile-First Design
+- Visual Hierarchy
+- Usability
+- Simplified Navigation
+
+## Outcome
+The project created a smooth and accessible experience for students searching for part-time jobs. The design improved usability, reduced the time required for job applications, and provided a more organized and efficient job discovery process.
+
+## Designer
+Vedhavalli V  
+UI/UX Designer
